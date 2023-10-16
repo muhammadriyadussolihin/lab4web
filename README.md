@@ -54,7 +54,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     </html>
     ```
 
-    ![img](gambar/1.png)<br>
+    ![img](Gambar/1.png)<br>
 
 2. Mengatur Clearfix Element untuk mengatur element setelah float element. Lalu tambahkan element lainnya seperti div3 kemudian atur property clear pada CSS.
 
@@ -76,7 +76,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/2.png)<br>
+    ![img](Gambar/2.png)<br>
 
 ### MEMBUAT LAYOUT SEDERHANA
 1. Buat file baru dengan file css kemudian buat kerangka layout dengan semantics element.
@@ -114,7 +114,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     </html>
     ```
 
-    ![img](gambar/3.png)<br>
+    ![img](Gambar/3.png)<br>
 
 2. Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
@@ -150,7 +150,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/4.png)<br>
+    ![img](Gambar/4.png)<br>
 
 3. Kemudian selanjutnya mengatur Navigasi
 
@@ -174,7 +174,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/5.png)<br>
+    ![img](Gambar/5.png)<br>
 
 4. Selanjutnya membuat hero panel. Tambahkan di HTML dan CSS
 
@@ -208,7 +208,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/6.png)<br>
+    ![img](Gambar/6.png)<br>
 
 5. Selanjutnya mengatur main content dan sidebar, lalu tambahkan CSS float dan element lain dalam sidebar
 
@@ -282,7 +282,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     </aside>
     ```
 
-    ![img](gambar/7.png)<br>
+    ![img](Gambar/7.png)<br>
 
 6. Selanjutnya mengatur Footer. Tambahkan di CSS untuk Footer
 
@@ -296,7 +296,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/8.png)<br>
+    ![img](Gambar/8.png)<br>
 
 7. Setelah itu tambahkan Element lainnya pada Main Content
 
@@ -374,7 +374,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/9.png)<br>
+    ![img](Gambar/9.png)<br>
 
 8. Terakhir membuat Content Artikel. Tambahkan di HTML dan CSS
 
@@ -425,19 +425,19 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
     }
     ```
 
-    ![img](gambar/10.png)<br>
+    ![img](Gambar/10.png)<br>
 
 ### PERTANYAAN & TUGAS
 
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll<br>
  - **HASIL**
-    ![img](gambar/11.png)
+    ![img](Gambar/11.png)
     <br>
     <br>
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll<br>
 - **HASIL**
-    ![img](gambar/12.png)
+    ![img](Gambar/12.png)
     <br>
     <br>
